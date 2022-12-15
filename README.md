@@ -194,8 +194,8 @@ dns_id: "4"
 
 ```json
 {
-  "code": 500,
-  "msg": "认证失败",
+  "code": 200,
+  "msg": "删除成功",
   "data": {
     "Id": 0,
     "Domain": "",
