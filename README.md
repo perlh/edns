@@ -1,8 +1,12 @@
 # edns
 
 
-一个简单的DNS服务器，提供一些接口
+- 一个简单的DNS服务器，提供一些接口 ，下次有空写一下doc。
 
+- 这个项目使用了Gorm库对数据库进行操作，是用来redis来保存dns信息。
+
+- [客户端代码: client.py](client.py)
+- [服务器代码: main.go,...](main.go)
 
 # API
 
